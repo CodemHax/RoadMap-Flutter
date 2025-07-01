@@ -7,10 +7,10 @@
 
 ### 🔹 Mini Tasks:
 - [x] Create two screens and navigate using `Navigator.push()` 🔥
-- [ ] Return data using `Navigator.pop()`
-- [ ] Use `MaterialPageRoute` with a custom transition
-- [ ] Setup named routes via `onGenerateRoute` 🔥
-- [ ] Pass arguments between screens
+- [x] Return data using `Navigator.pop()`
+- [x] Use `MaterialPageRoute` with a custom transition
+- [x] Setup named routes via `onGenerateRoute` 🔥
+- [x] Pass arguments between screens
 
 ### 📺 YouTube:
 - [Navigation Basics](https://youtu.be/YO9dJmBF_j8)
@@ -21,8 +21,8 @@
 - [Navigation and Routing](https://docs.flutter.dev/development/ui/navigation)
 
 ### 🔥 Major Tasks:
-- [ ] ✅ Create a 3-screen app using `Navigator.push` and named routes
-- [ ] ✅ Handle data passing between screens and return on pop
+- [x] ✅ Create a 3-screen app using `Navigator.push` and named routes
+- [x] ✅ Handle data passing between screens and return on pop
 
 ---
 
