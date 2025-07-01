@@ -6,7 +6,7 @@
 **🎯 Goal:** Implement multi-screen navigation
 
 ### 🔹 Mini Tasks:
-- [ ] Create two screens and navigate using `Navigator.push()` 🔥
+- [x] Create two screens and navigate using `Navigator.push()` 🔥
 - [ ] Return data using `Navigator.pop()`
 - [ ] Use `MaterialPageRoute` with a custom transition
 - [ ] Setup named routes via `onGenerateRoute` 🔥
