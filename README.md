@@ -31,11 +31,11 @@
 **🎯 Goal:** Manage app-wide state using Provider and Riverpod
 
 ### 🔹 Mini Tasks:
-- [ ] Install and configure `provider` package 🔥
-- [ ] Create `ChangeNotifier` for counter & theme toggle 🔥
-- [ ] Update widgets using `notifyListeners()`
-- [ ] Switch to `flutter_riverpod` and refactor logic 🔥
-- [ ] (Optional) Use `Bloc` pattern for separation of concerns
+- [X] Install and configure `provider` package 🔥
+- [X] Create `ChangeNotifier` for counter & theme toggle 🔥
+- [X] Update widgets using `notifyListeners()`
+- [X] Switch to `flutter_riverpod` and refactor logic 🔥
+- [X] (Optional) Use `Bloc` pattern for separation of concerns
 
 ### 📺 YouTube:
 - [Provider Tutorial](https://youtu.be/d_m5csmrf7I)
@@ -47,7 +47,7 @@
 
 ### 🔥 Major Tasks:
 - [ ] ✅ Build a global theme toggler using Provider
-- [ ] ✅ Switch to Riverpod and refactor the same logic
+- [X] ✅ Switch to Riverpod and refactor the same logic
 
 ---
 
