@@ -56,11 +56,11 @@
 **🎯 Goal:** Fetch and display data from a REST API
 
 ### 🔹 Mini Tasks:
-- [ ] Install and use `http` or `dio` package 🔥
-- [ ] Fetch data from a public API like `newsapi.org` 🔥
-- [ ] Convert JSON to Dart models using `json_serializable`
-- [ ] Display data in a `ListView`
-- [ ] Show loader using `FutureBuilder` 🔥
+- [x] Install and use `http` or `dio` package 🔥
+- [x] Fetch data from a public API like `newsapi.org` 🔥
+- [x] Convert JSON to Dart models using `json_serializable`
+- [x] Display data in a `ListView`
+- [x] Show loader using `FutureBuilder` 🔥
 
 ### 📺 YouTube:
 - [Fetching APIs](https://youtu.be/x0uinJvhNxI)
@@ -71,8 +71,8 @@
 - [Dio](https://pub.dev/packages/dio)
 
 ### 🔥 Major Tasks:
-- [ ] ✅ Fetch and parse data from a public REST API
-- [ ] ✅ Display the data with proper error/loading UI
+- [x] ✅ Fetch and parse data from a public REST API
+- [x] ✅ Display the data with proper error/loading UI
 
 ---
 
